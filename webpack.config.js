@@ -82,6 +82,7 @@ let options = {
               sourceMap: true,
             },
           },
+          { loader:'postcss-loader'}
         ],
       },
       {
